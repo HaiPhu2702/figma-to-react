@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    flex: 2;
+}
+
+.listItemContainer {
+    flex: 5;
+
+}
+
+.listItem {
+    display: flex;
+    justify-content: space-between;
+}
+
+.register {
+    flex: 3;
+}
